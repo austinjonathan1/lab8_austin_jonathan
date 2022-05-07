@@ -6,7 +6,7 @@ How to Use:
 ***************
 
 From the zip/7z package:
-Unzip all lab8_austin_jonathan.zip and execute tasks in Spyder
+Unzip all lab8_austin_jonathan.zip and execute tasks in Spyder and Google Colab
 Make sure to pip install the proper libraries used at the top of each file
 View the program screenshots and “VIDEO” for the following requirements below:
 1. CNN - Baseline + Increasing Dropout + Data Augmentation + Batch Normalization + Your own method
